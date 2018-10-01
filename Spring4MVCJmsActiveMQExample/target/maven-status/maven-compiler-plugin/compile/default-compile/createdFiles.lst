@@ -1,0 +1,16 @@
+com\jms\springmvc\configuration\MessagingConfiguration.class
+com\jms\springmvc\model\Order.class
+com\jms\springmvc\service\OrderService.class
+com\jms\springmvc\controller\AppController.class
+com\jms\springmvc\configuration\AppConfig.class
+com\jms\springmvc\messaging\MessageReceiver.class
+com\jms\springmvc\messaging\MessageSender.class
+com\jms\springmvc\configuration\AppInitializer.class
+com\jms\springmvc\configuration\MessagingListnerConfiguration.class
+com\jms\springmvc\util\BasicUtil.class
+com\jms\springmvc\model\OrderStatus.class
+com\jms\springmvc\messaging\MessageSender$1.class
+com\jms\springmvc\service\OrderRepository.class
+com\jms\springmvc\service\OrderServiceImpl.class
+com\jms\springmvc\service\OrderRepositoryImpl.class
+com\jms\springmvc\model\InventoryResponse.class
