@@ -1,2 +1,2 @@
 # SampleApplication
-Using spring, Hibernate, Log4j, Exception handling and ActiveMQ
+Using springMVC, Hibernate, Log4j, Exception handling, Transaction Management and ActiveMQ
